@@ -1,14 +1,20 @@
-## hi welcome in BagasDev
-sc ini tidak boleh di jual belikan tanpa seizin bagasdev
+## CATATAN
 
-**menjalankan bot panel**
-node index.js
+Script ini untuk semua orang, bukan untuk Dijual.
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-**tqto**
-- bagusdev
-- viko
-- azfir
-My Contac Admin BagasDev: 083839357485
+<h1 align="center">BagasDev. || Base MD</h1>
+
+---
+
+#### a little about this bot
+
+- [x] **Fast Respon**
+- [x] **Simple**
+- [x] **Multi Device**
+- [x] **Console Log Nice**
+
+---
 
 <!--
 **bagasDev099/bagasDev099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
