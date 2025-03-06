@@ -1,4 +1,14 @@
-## Hi there 👋
+## hi welcome in BagasDev
+sc ini tidak boleh di jual belikan tanpa seizin bagasdev
+
+**menjalankan bot panel**
+node index.js
+
+**tqto**
+- bagusdev
+- viko
+- azfir
+My Contac Admin BagasDev: 083839357485
 
 <!--
 **bagasDev099/bagasDev099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
